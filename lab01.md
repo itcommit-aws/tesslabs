@@ -1,4 +1,4 @@
-# Lab01 : Introduction to AWS Identity and Access Management (IAM)
+# Lab #01 : Introduction to AWS Identity and Access Management (IAM)
 
 ```
 45분    
