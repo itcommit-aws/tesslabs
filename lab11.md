@@ -1,4 +1,4 @@
-# 실습 #11 : Introduction to AWS Lambda
+# Lab #11 : Introduction to AWS Lambda
 
     45분
     FREE
