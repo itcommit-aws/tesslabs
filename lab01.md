@@ -1,8 +1,6 @@
 # 실습 #01 : Introduction to AWS Identity and Access Management (IAM)
 
-`45분 `Free
-
-[실습 #01 링크](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5204505)
+`45분    `Free [실습 #01 링크](https://www.qwiklabs.com/focuses/10408?catalog_rank=%7B%22rank%22%3A10%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5204505)
 
 ## LAB Overview:
 
