@@ -1,5 +1,10 @@
 # 실습 : Introduction to Amazon DynamoDB
 
+    40분
+    FREE
+    
+[실습 #05 링크](https://www.qwiklabs.com/focuses/10407?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5204847)
+
 ## LAB Overview:
 
 Amazon DynamoDB 는 모든 규모에서 일관된 한 자릿수의 밀리 초 대기 시간을 필요로 하는 모든 애플리케이션에 대해 빠르고 유연한 NoSQL 데이터베이스 서비스입니다. 이 데이터베이스는 완벽하게 관리 데이터베이스 및 문서 및 키 - 값 데이터 모델을 모두 지원합니다. 유연한 데이터 모델과 안정적인 성능으로 모바일, 웹, 게임, 광고 기술, IoT 및 기타 여러 애플리케이션에 이상적입니다.
