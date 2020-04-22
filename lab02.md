@@ -2,10 +2,7 @@
 
 ```
 60분
-1 Credit
 ```
-
-[실습 #02 링크](https://www.qwiklabs.com/focuses/10895?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5204596)
 
 ## LAB Overview:
 이 실습에서는 Amazon EC2 인스턴스의 시작, 크기 조정, 관리 및 모니터링에 대한 기본적인 개요를 제공합니다.
