@@ -1,5 +1,7 @@
-# 실습 : Introduction to Amazon EC2 Auto Scaling
+# 실습 #06 : Introduction to Amazon EC2 Auto Scaling
 
+    50분
+    
 ## LAB Overview:
 이 실습에서는 Auto Scaling 기능을 사용하여 지정한 조건에 따라 Amazon EC2 인스턴스를 자동으로 시작하는 방법을 학습합니다. Auto Scaling 서비스가 자동으로 대체 인스턴스를 생성하는 동안 실행중인 인스턴스를 종료하고 감시하여 Auto Scaling 서비스를 테스트 합니다.
 
