@@ -1,4 +1,4 @@
-# 실습 : Introduction to Amazon EC2
+# 실습 #02 : Introduction to Amazon EC2
 
 ```
 60분
