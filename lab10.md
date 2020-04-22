@@ -1,5 +1,7 @@
-# 실습 : Building and Deploying Containers Using Amazon Elastic Container Service
+# 실습 #10 : Building and Deploying Containers Using Amazon Elastic Container Service
 
+    90분
+    
 ## LAB Overview:
 
 이 실습은 https://ecsworkshop.com 사이트의 워크샵을 기반으로 생성된 실습입니다.
