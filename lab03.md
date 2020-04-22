@@ -1,4 +1,4 @@
-# 실습 #03 : Introduction to Amazon Simple Storage Service (S3)
+# Lab #03 : Introduction to Amazon Simple Storage Service (S3)
 
     60분
     FREE
