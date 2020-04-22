@@ -1,4 +1,6 @@
-# 실습 : Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation
+# 실습 #09 : Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation
+
+    60분
 
 ## LAB Overview:
 이 실습에서는 AWS CloudFormation을 사용하여 Amazon VPC (Virtual Private Cloud)를 생성하는 방법을 보여줍니다.
