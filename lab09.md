@@ -1,4 +1,4 @@
-# 실습 #09 : Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation
+# Lab #09 : Creating an Amazon Virtual Private Cloud (VPC) with AWS CloudFormation
 
     60분
 
