@@ -1,4 +1,4 @@
-# 실습 #05 : Introduction to Amazon DynamoDB
+# Lab #05 : Introduction to Amazon DynamoDB
 
     40분
     FREE
