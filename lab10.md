@@ -1,4 +1,4 @@
-# 실습 #10 : Building and Deploying Containers Using Amazon Elastic Container Service
+# Lab #10 : Building and Deploying Containers Using Amazon Elastic Container Service
 
     90분
     
