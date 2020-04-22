@@ -1,5 +1,10 @@
 # 실습 : Introduction to Amazon Simple Storage Service (S3)
 
+    60분
+    Free
+
+[실습 #03 링크](https://www.qwiklabs.com/focuses/10488?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=5204827)
+
 ## LAB Overview:
   > Amazon S3(Amazon Simple Storage Service)는 업계 최고의 확장성, 데이터 가용성, 보안 및 성능을 제공하는 객체 스토리지 서비스입니다. 즉 모든 규모와 업종의 고객은 웹 사이트, 모바일 응용 프로그램, 백업 및 복원, 아카이브, 엔터프라이즈 응용 프로그램, IoT 장치 및 대형 데이터 분석과 같은 다양한 범위의 사용 사례에 대해 모든 규모의 데이터를 저장하고 보호할 수 있습니다. Amazon S3는 사용하기 쉬운 관리 기능을 제공하므로 데이터를 구성하고 특정 비즈니스, 조직 및 규정 준수 요구사항에 맞게 미세 조정된 액세스 제어를 구성할 수 있습니다. Amazon S3는 99.999999999% (11,9‘s)의 내구성을 위해 설계되었으며 전 세계 기업을 대상으로 수백만 건의 응용 프로그램 데이터를 저장합니다.
 
