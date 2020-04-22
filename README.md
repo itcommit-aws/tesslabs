@@ -1,7 +1,8 @@
 # AWS Technical Essentials 실습 자료
 
 ## 실습시 준비사항
-https://www.qwiklabs.com 가입 후 진행
+Free인 경우는, https://www.qwiklabs.com 가입 후 진행
+그 외의 경우는, https://aws.amazon.com 가입 후 진행
 
 ## 실습 리스트
 ### [Lab01. Introduction to AWS Identity and Access Management (IAM)](https://github.com/itcommit-aws/tesslabs/blob/master/lab01.md)- Free
