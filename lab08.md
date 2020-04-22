@@ -1,4 +1,4 @@
-# 실습 #08 : Working with Elastic Load Balancing
+# Lab #08 : Working with Elastic Load Balancing
 
     55분
 
