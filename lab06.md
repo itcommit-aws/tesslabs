@@ -1,4 +1,4 @@
-# 실습 #06 : Introduction to Amazon EC2 Auto Scaling
+# Lab #06 : Introduction to Amazon EC2 Auto Scaling
 
     50분
     
