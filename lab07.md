@@ -1,4 +1,6 @@
-# 실습 : Introduction to Amazon Virtual Private Cloud (VPC)
+# 실습 #07 : Introduction to Amazon Virtual Private Cloud (VPC)
+
+    40분
 
 ## LAB Overview:
 
