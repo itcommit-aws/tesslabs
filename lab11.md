@@ -1,4 +1,7 @@
-# 실습 : Introduction to AWS Lambda
+# 실습 #11 : Introduction to AWS Lambda
+
+    45분
+    FREE
 
 ## LAB Overview:
 이 실습실에서는 AWS Lambda에 대한 기본 설명을 제공합니다. 이벤트 중심 환경에서 람다 함수를 만드는 데 필요한 단계를 보여줍니다.
