@@ -1,4 +1,6 @@
-# 실습 : Introduction to Amazon Relational Database Service (RDS) (Linux)
+# 실습 #04 : Introduction to Amazon Relational Database Service (RDS) (Linux)
+
+    50분
 
 ## LAB Overview:
 
