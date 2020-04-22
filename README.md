@@ -1,6 +1,6 @@
-# Megazone Cloud AWS 기초 실습 자료
+# AWS Technical Essentials 기초 실습 자료
 
-### [Lab01. Introduction to AWS Identity and Access Management (IAM)](https://github.com/cloudjjang/mzc-101-tech/blob/master/lab01.md)
+### [Lab01. Introduction to AWS Identity and Access Management (IAM)](https://github.com/itcommit-aws/tesslabs/master/lab01.md)
 
 ### [Lab02. Introduction to Amazon EC2](https://github.com/cloudjjang/mzc-101-tech/blob/master/lab02.md)
 
